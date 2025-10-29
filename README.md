@@ -1,2 +1,10 @@
-# Drink-joy
-A smart app that reminds you to drink water every hour and tracks your daily progress with a points and rewards system to motivate you to stay healthy. 💧
+## Drink Joy
+
+This app was created using https://getmocha.com.
+Need help or want to join the community? Join our [Discord](https://discord.gg/shDEGBSe2d).
+
+To run the devserver:
+```
+npm install
+npm run dev
+```
